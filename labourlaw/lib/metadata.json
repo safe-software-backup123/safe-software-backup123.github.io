@@ -1,0 +1,800 @@
+{
+  "vaultName": "劳动法律学习",
+  "lastExport": 1741174639335,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "法条/解释、意见、通知/对《工资支付暂行规定》有关问题的补充规定.md",
+    "法条/解释、意见、通知/关于劳动人事争议仲裁与诉讼衔接有关问题的意见.md",
+    "法条/解释、意见、通知/关于确立劳动关系有关事项的通知.md",
+    "法条/解释、意见、通知/关于审理劳动争议案件适用法律若干问题的解释（三）.md",
+    "法条/解释、意见、通知/国务院办公厅关于全面治理拖欠农民工工资问题的意见.md",
+    "法条/解释、意见、通知/人力资源社会保障部关于执行《工伤保险条例》若干问题的意见.md",
+    "法条/解释、意见、通知/人力资源社会保障部关于执行《工伤保险条例》若干问题的意见（二）.md",
+    "法条/解释、意见、通知/最高人民法院关于民事执行中变更、追加当事人若干问题的规定.md",
+    "法条/解释、意见、通知/最高人民法院关于人民法院对经劳动争议仲裁裁决的纠纷准予撤诉或驳回起诉后劳动争议仲裁裁决从何时起生效的解释.md",
+    "法条/解释、意见、通知/最高人民法院关于人民法院审理事业单位人事争议案件若干问题的规定.md",
+    "法条/解释、意见、通知/最高人民法院关于人事争议申请仲裁的时效期间如何计算的批复.md",
+    "法条/解释、意见、通知/最高人民法院关于审理工伤保险行政案件若干问题的规定.md",
+    "法条/解释、意见、通知/最高人民法院关于审理拒不支付劳动报酬刑事案件适用法律若干问题的解释.md",
+    "法条/解释、意见、通知/最高人民法院关于审理劳动争议案件适用法律问题的解释（一）.md",
+    "法条/解释、意见、通知/最高人民法院关于审理涉及人民调解协议的民事案件的若干规定.md",
+    "法条/解释、意见、通知/最高人民法院关于执行程序中计算迟延履行期间的债务利息适用法律若干问题的解释.md",
+    "法条/解释、意见、通知/最高人民法院民一庭关于达到或者超过法定退休年龄的劳动者（含农民工）与用人单位之间劳动关系终止的确定标准问题的答复.md",
+    "法条/行政法规/保障农民工工资支付条例.md",
+    "法条/行政法规/法律援助条例.md",
+    "法条/行政法规/非法用工单位伤亡人员一次性赔偿办法.md",
+    "法条/行政法规/高等学校勤工助学管理办法（2018年修订）.md",
+    "法条/行政法规/工程建设领域农民工工资专用账户管理暂行办法.md",
+    "法条/行政法规/工伤保险条例.md",
+    "法条/行政法规/工伤认定办法.md",
+    "法条/行政法规/工资支付暂行规定.md",
+    "法条/行政法规/关于工资总额组成的规定.md",
+    "法条/行政法规/关于企业实行不定时工作制和综合计算工时工作制的审批办法.md",
+    "法条/行政法规/关于印发防暑降温措施管理办法的通知.md",
+    "法条/行政法规/关于职工全年月平均工作时间和工资折算问题的通知.md",
+    "法条/行政法规/国家统计局关于工资总额组成的规定.md",
+    "法条/行政法规/禁止使用童工规定.md",
+    "法条/行政法规/劳动保障监察条例.md",
+    "法条/行政法规/劳动部关于企业职工流动若干问题的通知.md",
+    "法条/行政法规/劳动部关于印发《关于贯彻执行〈中华人民共和国劳动法〉若干问题的意见》的通知.md",
+    "法条/行政法规/劳动人事争议仲裁办案规则.md",
+    "法条/行政法规/劳务派遣暂行规定.md",
+    "法条/行政法规/女职工劳动保护特别规定.md",
+    "法条/行政法规/企业职工患病或非因工负伤医疗期规定.md",
+    "法条/行政法规/人力资源社会保障部关于支持和鼓励事业单位专业技术人员创新创业的指导意见.md",
+    "法条/行政法规/社会保险基金先行支付暂行办法.md",
+    "法条/行政法规/社会保险经办条例.md",
+    "法条/行政法规/失业保险条例.md",
+    "法条/行政法规/实施《中华人民共和国社会保险法》若干规定.md",
+    "法条/行政法规/新就业形态劳动者劳动合同和书面协议订立指引(试行).md",
+    "法条/行政法规/职工带薪年休假条例.md",
+    "法条/行政法规/职业学校学生实习管理规定.md",
+    "法条/行政法规/中华人民共和国劳动合同法实施条例.md",
+    "法条/行政法规/住房公积金管理条例.md",
+    "法条/中华人民共和国妇女权益保障法.md",
+    "法条/中华人民共和国工会法.md",
+    "法条/中华人民共和国公司法.md",
+    "法条/中华人民共和国就业促进法.md",
+    "法条/中华人民共和国劳动法.md",
+    "法条/中华人民共和国劳动合同法.md",
+    "法条/中华人民共和国劳动争议调解仲裁法.md",
+    "法条/中华人民共和国民法典.md",
+    "法条/中华人民共和国民事诉讼法.md",
+    "法条/中华人民共和国社会保险法.md",
+    "法条/中华人民共和国职业病防治法.md",
+    "劳动争议典型案例/北京市2021年劳动人事争议仲裁典型案例.md",
+    "劳动争议典型案例/北京市2022年劳动人事争议仲裁典型案例.md",
+    "劳动争议典型案例/北京市2023年劳动人事争议仲裁典型案例.md",
+    "劳动争议典型案例/北京市2024年劳动人事争议仲裁典型案例.md",
+    "劳动争议典型案例/广东省2021法院劳动争议典型案例.md",
+    "劳动争议典型案例/广东省2022法院劳动争议典型案例.md",
+    "劳动争议典型案例/广东省2023法院劳动争议典型案例.md",
+    "劳动争议典型案例/广东省2024法院劳动争议典型案例.md",
+    "劳动争议典型案例/劳动人事争议典型案例（第二批）.md",
+    "劳动争议典型案例/劳动人事争议典型案例（第三批）.md",
+    "劳动争议典型案例/劳动人事争议典型案例（第一批）.md",
+    "劳动争议典型案例/陕西省劳动人事争议典型案例（第二批）.md",
+    "劳动争议典型案例/陕西省劳动人事争议典型案例（第三批）.md",
+    "劳动争议典型案例/陕西省劳动人事争议典型案例（第一批）.md",
+    "劳动争议典型案例/西安市劳动争议典型案例.md",
+    "调岗降薪.drawio.png",
+    "劳动法律学习笔记.md",
+    "劳动关系.md",
+    "劳动者权益.md",
+    "劳动仲裁流程.md",
+    "劳动仲裁.drawio.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "法条/解释、意见、通知/对《工资支付暂行规定》有关问题的补充规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 4107,
+      "exportedPath": "法条/解释、意见、通知/对《工资支付暂行规定》有关问题的补充规定.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/关于劳动人事争议仲裁与诉讼衔接有关问题的意见.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 9408,
+      "exportedPath": "法条/解释、意见、通知/关于劳动人事争议仲裁与诉讼衔接有关问题的意见.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/关于确立劳动关系有关事项的通知.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 2561,
+      "exportedPath": "法条/解释、意见、通知/关于确立劳动关系有关事项的通知.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/关于审理劳动争议案件适用法律若干问题的解释（三）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 6613,
+      "exportedPath": "法条/解释、意见、通知/关于审理劳动争议案件适用法律若干问题的解释（三）.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/国务院办公厅关于全面治理拖欠农民工工资问题的意见.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 15237,
+      "exportedPath": "法条/解释、意见、通知/国务院办公厅关于全面治理拖欠农民工工资问题的意见.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/人力资源社会保障部关于执行《工伤保险条例》若干问题的意见.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 5344,
+      "exportedPath": "法条/解释、意见、通知/人力资源社会保障部关于执行《工伤保险条例》若干问题的意见.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/人力资源社会保障部关于执行《工伤保险条例》若干问题的意见（二）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 4609,
+      "exportedPath": "法条/解释、意见、通知/人力资源社会保障部关于执行《工伤保险条例》若干问题的意见（二）.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于民事执行中变更、追加当事人若干问题的规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 12448,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于民事执行中变更、追加当事人若干问题的规定.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于人民法院对经劳动争议仲裁裁决的纠纷准予撤诉或驳回起诉后劳动争议仲裁裁决从何时起生效的解释.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 1067,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于人民法院对经劳动争议仲裁裁决的纠纷准予撤诉或驳回起诉后劳动争议仲裁裁决从何时起生效的解释.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于人民法院审理事业单位人事争议案件若干问题的规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 1157,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于人民法院审理事业单位人事争议案件若干问题的规定.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于人事争议申请仲裁的时效期间如何计算的批复.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 994,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于人事争议申请仲裁的时效期间如何计算的批复.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于审理工伤保险行政案件若干问题的规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 6852,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于审理工伤保险行政案件若干问题的规定.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于审理拒不支付劳动报酬刑事案件适用法律若干问题的解释.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 5153,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于审理拒不支付劳动报酬刑事案件适用法律若干问题的解释.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于审理劳动争议案件适用法律问题的解释（一）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 23114,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于审理劳动争议案件适用法律问题的解释（一）.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于审理涉及人民调解协议的民事案件的若干规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 4096,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于审理涉及人民调解协议的民事案件的若干规定.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院关于执行程序中计算迟延履行期间的债务利息适用法律若干问题的解释.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 3781,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院关于执行程序中计算迟延履行期间的债务利息适用法律若干问题的解释.html",
+      "dependencies": []
+    },
+    "法条/解释、意见、通知/最高人民法院民一庭关于达到或者超过法定退休年龄的劳动者（含农民工）与用人单位之间劳动关系终止的确定标准问题的答复.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 901,
+      "exportedPath": "法条/解释、意见、通知/最高人民法院民一庭关于达到或者超过法定退休年龄的劳动者（含农民工）与用人单位之间劳动关系终止的确定标准问题的答复.html",
+      "dependencies": []
+    },
+    "法条/行政法规/保障农民工工资支付条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 24150,
+      "exportedPath": "法条/行政法规/保障农民工工资支付条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/法律援助条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 11442,
+      "exportedPath": "法条/行政法规/法律援助条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/非法用工单位伤亡人员一次性赔偿办法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 3105,
+      "exportedPath": "法条/行政法规/非法用工单位伤亡人员一次性赔偿办法.html",
+      "dependencies": []
+    },
+    "法条/行政法规/高等学校勤工助学管理办法（2018年修订）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 9068,
+      "exportedPath": "法条/行政法规/高等学校勤工助学管理办法（2018年修订）.html",
+      "dependencies": []
+    },
+    "法条/行政法规/工程建设领域农民工工资专用账户管理暂行办法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 13463,
+      "exportedPath": "法条/行政法规/工程建设领域农民工工资专用账户管理暂行办法.html",
+      "dependencies": []
+    },
+    "法条/行政法规/工伤保险条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 32092,
+      "exportedPath": "法条/行政法规/工伤保险条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/工伤认定办法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 7801,
+      "exportedPath": "法条/行政法规/工伤认定办法.html",
+      "dependencies": []
+    },
+    "法条/行政法规/工资支付暂行规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 6589,
+      "exportedPath": "法条/行政法规/工资支付暂行规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/关于工资总额组成的规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 5047,
+      "exportedPath": "法条/行政法规/关于工资总额组成的规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/关于企业实行不定时工作制和综合计算工时工作制的审批办法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 2646,
+      "exportedPath": "法条/行政法规/关于企业实行不定时工作制和综合计算工时工作制的审批办法.html",
+      "dependencies": []
+    },
+    "法条/行政法规/关于印发防暑降温措施管理办法的通知.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 10320,
+      "exportedPath": "法条/行政法规/关于印发防暑降温措施管理办法的通知.html",
+      "dependencies": []
+    },
+    "法条/行政法规/关于职工全年月平均工作时间和工资折算问题的通知.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 1405,
+      "exportedPath": "法条/行政法规/关于职工全年月平均工作时间和工资折算问题的通知.html",
+      "dependencies": []
+    },
+    "法条/行政法规/国家统计局关于工资总额组成的规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 5802,
+      "exportedPath": "法条/行政法规/国家统计局关于工资总额组成的规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/禁止使用童工规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 6436,
+      "exportedPath": "法条/行政法规/禁止使用童工规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/劳动保障监察条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 14624,
+      "exportedPath": "法条/行政法规/劳动保障监察条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/劳动部关于企业职工流动若干问题的通知.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 3943,
+      "exportedPath": "法条/行政法规/劳动部关于企业职工流动若干问题的通知.html",
+      "dependencies": []
+    },
+    "法条/行政法规/劳动部关于印发《关于贯彻执行〈中华人民共和国劳动法〉若干问题的意见》的通知.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 37025,
+      "exportedPath": "法条/行政法规/劳动部关于印发《关于贯彻执行〈中华人民共和国劳动法〉若干问题的意见》的通知.html",
+      "dependencies": []
+    },
+    "法条/行政法规/劳动人事争议仲裁办案规则.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 30034,
+      "exportedPath": "法条/行政法规/劳动人事争议仲裁办案规则.html",
+      "dependencies": []
+    },
+    "法条/行政法规/劳务派遣暂行规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 10542,
+      "exportedPath": "法条/行政法规/劳务派遣暂行规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/女职工劳动保护特别规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 7281,
+      "exportedPath": "法条/行政法规/女职工劳动保护特别规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/企业职工患病或非因工负伤医疗期规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 2683,
+      "exportedPath": "法条/行政法规/企业职工患病或非因工负伤医疗期规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/人力资源社会保障部关于支持和鼓励事业单位专业技术人员创新创业的指导意见.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 9957,
+      "exportedPath": "法条/行政法规/人力资源社会保障部关于支持和鼓励事业单位专业技术人员创新创业的指导意见.html",
+      "dependencies": []
+    },
+    "法条/行政法规/社会保险基金先行支付暂行办法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 8950,
+      "exportedPath": "法条/行政法规/社会保险基金先行支付暂行办法.html",
+      "dependencies": []
+    },
+    "法条/行政法规/社会保险经办条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 23305,
+      "exportedPath": "法条/行政法规/社会保险经办条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/失业保险条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 10036,
+      "exportedPath": "法条/行政法规/失业保险条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/实施《中华人民共和国社会保险法》若干规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 11729,
+      "exportedPath": "法条/行政法规/实施《中华人民共和国社会保险法》若干规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/新就业形态劳动者劳动合同和书面协议订立指引(试行).md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 4980,
+      "exportedPath": "法条/行政法规/新就业形态劳动者劳动合同和书面协议订立指引(试行).html",
+      "dependencies": []
+    },
+    "法条/行政法规/职工带薪年休假条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 3141,
+      "exportedPath": "法条/行政法规/职工带薪年休假条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/职业学校学生实习管理规定.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 15644,
+      "exportedPath": "法条/行政法规/职业学校学生实习管理规定.html",
+      "dependencies": []
+    },
+    "法条/行政法规/中华人民共和国劳动合同法实施条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 15200,
+      "exportedPath": "法条/行政法规/中华人民共和国劳动合同法实施条例.html",
+      "dependencies": []
+    },
+    "法条/行政法规/住房公积金管理条例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 18526,
+      "exportedPath": "法条/行政法规/住房公积金管理条例.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国妇女权益保障法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 17204,
+      "exportedPath": "法条/中华人民共和国妇女权益保障法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国工会法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 20202,
+      "exportedPath": "法条/中华人民共和国工会法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国公司法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 97259,
+      "exportedPath": "法条/中华人民共和国公司法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国就业促进法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 18653,
+      "exportedPath": "法条/中华人民共和国就业促进法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国劳动法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 31566,
+      "exportedPath": "法条/中华人民共和国劳动法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国劳动合同法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 40845,
+      "exportedPath": "法条/中华人民共和国劳动合同法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国劳动争议调解仲裁法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 17366,
+      "exportedPath": "法条/中华人民共和国劳动争议调解仲裁法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国民法典.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 418756,
+      "exportedPath": "法条/中华人民共和国民法典.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国民事诉讼法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 111217,
+      "exportedPath": "法条/中华人民共和国民事诉讼法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国社会保险法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 36291,
+      "exportedPath": "法条/中华人民共和国社会保险法.html",
+      "dependencies": []
+    },
+    "法条/中华人民共和国职业病防治法.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 48894,
+      "exportedPath": "法条/中华人民共和国职业病防治法.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/北京市2021年劳动人事争议仲裁典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 32876,
+      "exportedPath": "劳动争议典型案例/北京市2021年劳动人事争议仲裁典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/北京市2022年劳动人事争议仲裁典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 53458,
+      "exportedPath": "劳动争议典型案例/北京市2022年劳动人事争议仲裁典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/北京市2023年劳动人事争议仲裁典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 41939,
+      "exportedPath": "劳动争议典型案例/北京市2023年劳动人事争议仲裁典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/北京市2024年劳动人事争议仲裁典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 49403,
+      "exportedPath": "劳动争议典型案例/北京市2024年劳动人事争议仲裁典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/广东省2021法院劳动争议典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 16821,
+      "exportedPath": "劳动争议典型案例/广东省2021法院劳动争议典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/广东省2022法院劳动争议典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 16791,
+      "exportedPath": "劳动争议典型案例/广东省2022法院劳动争议典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/广东省2023法院劳动争议典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 13923,
+      "exportedPath": "劳动争议典型案例/广东省2023法院劳动争议典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/广东省2024法院劳动争议典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 16487,
+      "exportedPath": "劳动争议典型案例/广东省2024法院劳动争议典型案例.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/劳动人事争议典型案例（第二批）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 35033,
+      "exportedPath": "劳动争议典型案例/劳动人事争议典型案例（第二批）.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/劳动人事争议典型案例（第三批）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 32583,
+      "exportedPath": "劳动争议典型案例/劳动人事争议典型案例（第三批）.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/劳动人事争议典型案例（第一批）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 64839,
+      "exportedPath": "劳动争议典型案例/劳动人事争议典型案例（第一批）.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/陕西省劳动人事争议典型案例（第二批）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 25747,
+      "exportedPath": "劳动争议典型案例/陕西省劳动人事争议典型案例（第二批）.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/陕西省劳动人事争议典型案例（第三批）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 9157,
+      "exportedPath": "劳动争议典型案例/陕西省劳动人事争议典型案例（第三批）.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/陕西省劳动人事争议典型案例（第一批）.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 28908,
+      "exportedPath": "劳动争议典型案例/陕西省劳动人事争议典型案例（第一批）.html",
+      "dependencies": []
+    },
+    "劳动争议典型案例/西安市劳动争议典型案例.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 39072,
+      "exportedPath": "劳动争议典型案例/西安市劳动争议典型案例.html",
+      "dependencies": []
+    },
+    "调岗降薪.drawio.png": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 366777,
+      "exportedPath": "调岗降薪.drawio.png",
+      "dependencies": []
+    },
+    "劳动法律学习笔记.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 0,
+      "exportedPath": "劳动法律学习笔记.html",
+      "dependencies": []
+    },
+    "劳动关系.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 948,
+      "exportedPath": "劳动关系.html",
+      "dependencies": []
+    },
+    "劳动者权益.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 491,
+      "exportedPath": "劳动者权益.html",
+      "dependencies": []
+    },
+    "劳动仲裁流程.md": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 718,
+      "exportedPath": "劳动仲裁流程.html",
+      "dependencies": [
+        "劳动仲裁.drawio.png"
+      ]
+    },
+    "劳动仲裁.drawio.png": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 209570,
+      "exportedPath": "劳动仲裁.drawio.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 29706,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 4730,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 137305,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 316,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741174639335,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
