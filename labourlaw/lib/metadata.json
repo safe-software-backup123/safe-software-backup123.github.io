@@ -1,6 +1,6 @@
 {
   "vaultName": "劳动法律学习",
-  "lastExport": 1741174639335,
+  "lastExport": 1741178362670,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -84,8 +84,12 @@
     "劳动法律学习笔记.md",
     "劳动关系.md",
     "劳动者权益.md",
-    "劳动仲裁流程.md",
     "劳动仲裁.drawio.png",
+    "劳动仲裁流程.md",
+    "劳务关系.md",
+    "index.md",
+    "README.md",
+    "SUMMARY.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -153,14 +157,14 @@
       "dependencies": []
     },
     "法条/解释、意见、通知/关于劳动人事争议仲裁与诉讼衔接有关问题的意见.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 9408,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 9407,
       "exportedPath": "法条/解释、意见、通知/关于劳动人事争议仲裁与诉讼衔接有关问题的意见.html",
       "dependencies": []
     },
     "法条/解释、意见、通知/关于确立劳动关系有关事项的通知.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 2561,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 2564,
       "exportedPath": "法条/解释、意见、通知/关于确立劳动关系有关事项的通知.html",
       "dependencies": []
     },
@@ -267,8 +271,8 @@
       "dependencies": []
     },
     "法条/行政法规/高等学校勤工助学管理办法（2018年修订）.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 9068,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 9067,
       "exportedPath": "法条/行政法规/高等学校勤工助学管理办法（2018年修订）.html",
       "dependencies": []
     },
@@ -279,8 +283,8 @@
       "dependencies": []
     },
     "法条/行政法规/工伤保险条例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 32092,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 28684,
       "exportedPath": "法条/行政法规/工伤保险条例.html",
       "dependencies": []
     },
@@ -321,8 +325,8 @@
       "dependencies": []
     },
     "法条/行政法规/国家统计局关于工资总额组成的规定.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 5802,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 5794,
       "exportedPath": "法条/行政法规/国家统计局关于工资总额组成的规定.html",
       "dependencies": []
     },
@@ -357,20 +361,20 @@
       "dependencies": []
     },
     "法条/行政法规/劳务派遣暂行规定.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 10542,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 10540,
       "exportedPath": "法条/行政法规/劳务派遣暂行规定.html",
       "dependencies": []
     },
     "法条/行政法规/女职工劳动保护特别规定.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 7281,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 7273,
       "exportedPath": "法条/行政法规/女职工劳动保护特别规定.html",
       "dependencies": []
     },
     "法条/行政法规/企业职工患病或非因工负伤医疗期规定.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 2683,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 2678,
       "exportedPath": "法条/行政法规/企业职工患病或非因工负伤医疗期规定.html",
       "dependencies": []
     },
@@ -381,14 +385,14 @@
       "dependencies": []
     },
     "法条/行政法规/社会保险基金先行支付暂行办法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 8950,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 8948,
       "exportedPath": "法条/行政法规/社会保险基金先行支付暂行办法.html",
       "dependencies": []
     },
     "法条/行政法规/社会保险经办条例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 23305,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 20009,
       "exportedPath": "法条/行政法规/社会保险经办条例.html",
       "dependencies": []
     },
@@ -405,8 +409,8 @@
       "dependencies": []
     },
     "法条/行政法规/新就业形态劳动者劳动合同和书面协议订立指引(试行).md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 4980,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 4972,
       "exportedPath": "法条/行政法规/新就业形态劳动者劳动合同和书面协议订立指引(试行).html",
       "dependencies": []
     },
@@ -423,14 +427,14 @@
       "dependencies": []
     },
     "法条/行政法规/中华人民共和国劳动合同法实施条例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 15200,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 13192,
       "exportedPath": "法条/行政法规/中华人民共和国劳动合同法实施条例.html",
       "dependencies": []
     },
     "法条/行政法规/住房公积金管理条例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 18526,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 16117,
       "exportedPath": "法条/行政法规/住房公积金管理条例.html",
       "dependencies": []
     },
@@ -447,8 +451,8 @@
       "dependencies": []
     },
     "法条/中华人民共和国公司法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 97259,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 97248,
       "exportedPath": "法条/中华人民共和国公司法.html",
       "dependencies": []
     },
@@ -459,68 +463,68 @@
       "dependencies": []
     },
     "法条/中华人民共和国劳动法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 31566,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 25892,
       "exportedPath": "法条/中华人民共和国劳动法.html",
       "dependencies": []
     },
     "法条/中华人民共和国劳动合同法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 40845,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 35755,
       "exportedPath": "法条/中华人民共和国劳动合同法.html",
       "dependencies": []
     },
     "法条/中华人民共和国劳动争议调解仲裁法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 17366,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 17027,
       "exportedPath": "法条/中华人民共和国劳动争议调解仲裁法.html",
       "dependencies": []
     },
     "法条/中华人民共和国民法典.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 418756,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 334133,
       "exportedPath": "法条/中华人民共和国民法典.html",
       "dependencies": []
     },
     "法条/中华人民共和国民事诉讼法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 111217,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 92804,
       "exportedPath": "法条/中华人民共和国民事诉讼法.html",
       "dependencies": []
     },
     "法条/中华人民共和国社会保险法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 36291,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 31164,
       "exportedPath": "法条/中华人民共和国社会保险法.html",
       "dependencies": []
     },
     "法条/中华人民共和国职业病防治法.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 48894,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 44783,
       "exportedPath": "法条/中华人民共和国职业病防治法.html",
       "dependencies": []
     },
     "劳动争议典型案例/北京市2021年劳动人事争议仲裁典型案例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 32876,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 31382,
       "exportedPath": "劳动争议典型案例/北京市2021年劳动人事争议仲裁典型案例.html",
       "dependencies": []
     },
     "劳动争议典型案例/北京市2022年劳动人事争议仲裁典型案例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 53458,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 51680,
       "exportedPath": "劳动争议典型案例/北京市2022年劳动人事争议仲裁典型案例.html",
       "dependencies": []
     },
     "劳动争议典型案例/北京市2023年劳动人事争议仲裁典型案例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 41939,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 40341,
       "exportedPath": "劳动争议典型案例/北京市2023年劳动人事争议仲裁典型案例.html",
       "dependencies": []
     },
     "劳动争议典型案例/北京市2024年劳动人事争议仲裁典型案例.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 49403,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 47854,
       "exportedPath": "劳动争议典型案例/北京市2024年劳动人事争议仲裁典型案例.html",
       "dependencies": []
     },
@@ -549,26 +553,26 @@
       "dependencies": []
     },
     "劳动争议典型案例/劳动人事争议典型案例（第二批）.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 35033,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 35022,
       "exportedPath": "劳动争议典型案例/劳动人事争议典型案例（第二批）.html",
       "dependencies": []
     },
     "劳动争议典型案例/劳动人事争议典型案例（第三批）.md": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 32583,
       "exportedPath": "劳动争议典型案例/劳动人事争议典型案例（第三批）.html",
       "dependencies": []
     },
     "劳动争议典型案例/劳动人事争议典型案例（第一批）.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 64839,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 64826,
       "exportedPath": "劳动争议典型案例/劳动人事争议典型案例（第一批）.html",
       "dependencies": []
     },
     "劳动争议典型案例/陕西省劳动人事争议典型案例（第二批）.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 25747,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 25837,
       "exportedPath": "劳动争议典型案例/陕西省劳动人事争议典型案例（第二批）.html",
       "dependencies": []
     },
@@ -579,8 +583,8 @@
       "dependencies": []
     },
     "劳动争议典型案例/陕西省劳动人事争议典型案例（第一批）.md": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 28908,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 28907,
       "exportedPath": "劳动争议典型案例/陕西省劳动人事争议典型案例（第一批）.html",
       "dependencies": []
     },
@@ -629,171 +633,195 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 29706,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 64122,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1741174639335,
-      "sourceSize": 4730,
+      "modifiedTime": 1741178362670,
+      "sourceSize": 4902,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 137305,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 316,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1741174639335,
+      "modifiedTime": 1741178362670,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "劳务关系.md": {
+      "modifiedTime": 1741178362670,
+      "sourceSize": 483,
+      "exportedPath": "劳务关系.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1741178362670,
+      "sourceSize": 0,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1741178362670,
+      "sourceSize": 16,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "SUMMARY.md": {
+      "modifiedTime": 1741178362670,
+      "sourceSize": 40,
+      "exportedPath": "summary.html",
       "dependencies": []
     }
   }
